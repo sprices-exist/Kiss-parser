@@ -25,6 +25,7 @@ for link in soup.find_all('td'):
 manga.close()
 mangaLinks.close()
 
+#made by Tanmay Nandanikar
     
 
 
